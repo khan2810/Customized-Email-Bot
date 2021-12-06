@@ -16,3 +16,4 @@
 * You can even send the mail in hindi, for this you just need to change the *get_info()* with the function *get_email_in_hindi()*.
 * You can even use any language, you just need to pass the language code in the value of language attribute of *recognize_google()* method.
 ## Working Demo
+![Alt Text](https://github.com/khan2810/Customized-Email-Bot/blob/main/Screenshot%20(90).png)
